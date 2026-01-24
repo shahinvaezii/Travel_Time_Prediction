@@ -1,2 +1,2 @@
 # Travel_Time_Prediction
-Spatio-Temporal Prediction of New York Taxies Travel Time by Neural Network
+Recovering Spatial Precision in Taxi Travel Time Forcasting: A Context-Enriched Deep Learning Approach
